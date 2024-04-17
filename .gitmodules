@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = https://github.com/Amir448868/ConversorMonedaApi.git
+[submodule "front"]
+	path = front
+	url = https://github.com/Amir448868/ConversorFront.git
